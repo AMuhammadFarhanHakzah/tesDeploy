@@ -1,6 +1,6 @@
 title: profil1
 description: Portfolio Website
-theme: jekyll-theme-primer
+theme: jekyll-theme-minimal
 destination: public
 source: public
 sass:
