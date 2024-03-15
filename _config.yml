@@ -4,4 +4,4 @@ theme: jekyll-theme-primer
 destination: public
 source: public
 sass:
-  sass_dir: public/css  # Adjust path if your SCSS file is in a subfolder within public/css
+  sass_dir: public/assets/css/style.scss  # Adjust path if your SCSS file is in a subfolder within public/css
